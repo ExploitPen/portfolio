@@ -1,2 +1,2 @@
 # portfolio
-this is my portfolio. it's just data on my testing.
+I just write code and find exploits and loopholes in that code and i also read code too and test like that.
